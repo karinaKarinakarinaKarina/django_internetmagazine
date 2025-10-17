@@ -1,1 +1,1 @@
-# python_projects-
+Интернет-магазин на Django 
